@@ -6,6 +6,10 @@ lance: lance was here
 
 kath: hello 123
 
-Jesus: joh
+Jesus: john
 
-redgie:
+redgie: test now
+
+lance valo tayo
+
+valo valo
