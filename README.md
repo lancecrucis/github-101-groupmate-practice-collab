@@ -6,6 +6,6 @@ lance:
 
 kath:
 
-Jesus: john
+Jesus: joh
 
 redgie:
