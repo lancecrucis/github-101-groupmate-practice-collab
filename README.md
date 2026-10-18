@@ -1,3 +1,11 @@
 # github-101-groupmate-practice-collab
 
-type your name here:
+type your something here
+
+lance:
+
+kath:
+
+Jesus:
+
+redgie:
