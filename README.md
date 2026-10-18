@@ -1,3 +1,3 @@
 # github-101-groupmate-practice-collab
 
-type your name here:
+type your name here: lance blanco
