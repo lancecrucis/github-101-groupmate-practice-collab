@@ -2,9 +2,9 @@
 
 type your something here
 
-lance:
+lance: lance was here
 
-kath: hello
+kath: hello 123
 
 Jesus: john
 
