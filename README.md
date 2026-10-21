@@ -8,7 +8,7 @@ kath: hello 123
 
 Jesus: john
 
-redgie: test now
+redgie: test now (efas efas)
 
 lance valo tayo
 
