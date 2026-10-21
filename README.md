@@ -10,8 +10,5 @@ Jesus: john
 
 redgie: test now
 
-lance valo tayo
+redgie: efas efas
 
-valo valo
-
-kkk
